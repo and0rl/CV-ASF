@@ -9,11 +9,6 @@ Mi occupo di progettare e sviluppare siti e web application, garantendone dispon
 
 ## Esperienza 
 
-- **Sviluppo Frontend /** PromoQui – Napoli  `12/2018 > 03/2019` 
-     
-    Ho partecipato alla realizzazione dell'interfaccia utente dell'applicazione prodotta dall'azienda, supervisionando il processo di deployment su piattaforma cloud.
-     
-     *Tecnologie*: React, GraphQL, CSS Grid, AWS 
 
 
 - **Sviluppo Frontend /** Hyperting – Bologna `04/2019 > 08/2019`
@@ -22,9 +17,12 @@ Mi occupo di progettare e sviluppare siti e web application, garantendone dispon
    
   *Tecnologie*: React, Node.js, PostgreSQL
   
-
-  
-
+- **Sviluppo Frontend /** PromoQui – Napoli  `12/2018 > 03/2019` 
+     
+    Ho partecipato alla realizzazione dell'interfaccia utente dell'applicazione prodotta dall'azienda, supervisionando il processo di deployment su piattaforma cloud.
+     
+     *Tecnologie*: React, GraphQL, CSS Grid, AWS 
+     
 
 - **Sviluppo Web Application /** Freelance `2018 > presente`
     
@@ -32,7 +30,7 @@ Mi occupo di progettare e sviluppare siti e web application, garantendone dispon
     Gestione di tutto il ciclo di sviluppo di applicazioni SaaS gestionali, dalla raccolta delle specifiche all'implementazione di soluzioni end-to-end, passando per       la creazione dei servizi REST, l’interfaccia grafica e il set-up delle automazioni di CI/CD. 
    
 
-   *Tecnologie*: Wordpress, Javascript, LAMP stack
+   *Tecnologie*: PHP, Node.js, MySQL, React, Material-UI, Docker
    
 - **Sviluppo Web /** Freelance `2012 > presente`
 
