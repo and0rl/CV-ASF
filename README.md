@@ -9,9 +9,9 @@ Mi occupo di progettare e sviluppare siti e web application, garantendone dispon
 
 ## Esperienza 
 
-- **Sviluppo Frontend /** Favilla srl – Napoli  `12/2018 > 03/2019` 
+- **Sviluppo Frontend /** PromoQui – Napoli  `12/2018 > 03/2019` 
      
-    Ho partecipato alla realizzazione dell'interfaccia utente dell'applicazione SaaS prodotta dall'azienda, supervisionando il processo di deployment su piattaforma cloud.
+    Ho partecipato alla realizzazione dell'interfaccia utente dell'applicazione prodotta dall'azienda, supervisionando il processo di deployment su piattaforma cloud.
      
      *Tecnologie*: React, GraphQL, CSS Grid, AWS 
 
@@ -21,13 +21,24 @@ Mi occupo di progettare e sviluppare siti e web application, garantendone dispon
   Ho contribuito all'implementazione di nuove feature di un applicativo gestionale ad suo interno commissionato all'azienda, gestendo l'integrazione dei dati provenienti dal backend.  
    
   *Tecnologie*: React, Node.js, PostgreSQL
+  
+
+  
 
 
+- **Sviluppo Web Application /** Freelance `2018 > presente`
+    
+    
+    Gestione di tutto il ciclo di sviluppo di applicazioni SaaS gestionali, dalla raccolta delle specifiche all'implementazione di soluzioni end-to-end, passando per       la creazione dei servizi REST, l’interfaccia grafica e il set-up delle automazioni di CI/CD. 
+   
+
+   *Tecnologie*: Wordpress, Javascript, LAMP stack
+   
 - **Sviluppo Web /** Freelance `2012 > presente`
 
   Progettazione tecnica, layout grafico  e relativa implementazione siti web per aziende e organizzazioni. 
 
-   *Tecnologie*: Wordpress, Javascript, LAMP stack
+  *Tecnologie*: Wordpress, Javascript, LAMP stack
 
 
 - **Sistemista /** Freelance `2005 > presente`
