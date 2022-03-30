@@ -46,8 +46,7 @@ Mi occupo di progettare e sviluppare siti e web application, garantendone dispon
   
    *Tecnologie*: Linux, Windows Server
 
-<br>
-<br>
+
 
 ## Competenze
 
@@ -84,10 +83,7 @@ Ottima conoscenza di HTML e CSS e di framework ad essi associati(SASS, Tailwind,
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
+
 
 
 
