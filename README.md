@@ -31,13 +31,16 @@ Mi occupo di progettare e sviluppare siti e web application, garantendone dispon
    
 
    *Tecnologie*: PHP, Node.js, MySQL, React, Material-UI, Docker
+
    
 - **Sviluppo Web /** Freelance `2012 > presente`
 
   Progettazione tecnica, layout grafico  e relativa implementazione siti web per aziende e organizzazioni. 
 
   *Tecnologie*: Wordpress, Javascript, LAMP stack
-
+<br>    
+<br>
+<br>
 
 - **Sistemista /** Freelance `2005 > presente`
 
@@ -80,9 +83,7 @@ Ottima conoscenza di HTML e CSS e di framework ad essi associati(SASS, Tailwind,
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
+
 
 
 
