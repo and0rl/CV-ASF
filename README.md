@@ -27,7 +27,7 @@ Mi occupo di progettare e sviluppare siti e web application, garantendone dispon
 - **Sviluppo Web Application /** Freelance `2018 > presente`
     
     
-    Gestione di tutto il ciclo di sviluppo di applicazioni SaaS gestionali, dalla raccolta delle specifiche all'implementazione di soluzioni end-to-end, passando per       la creazione dei servizi REST, l’interfaccia grafica e il set-up delle automazioni di CI/CD. 
+    Gestione di tutto il ciclo di sviluppo di applicazioni SaaS gestionali, dalla raccolta delle specifiche all'implementazione di soluzioni end-to-end, passando per       la creazione dei servizi REST, l’interfaccia utente e il set-up delle automazioni di CI/CD. 
    
 
    *Tecnologie*: PHP, Node.js, MySQL, React, Material-UI, Docker
@@ -57,7 +57,7 @@ Ottima conoscenza di HTML e CSS e di framework ad essi associati(SASS, Tailwind,
 
 - **Server Administration:** Configurazione in autonomia server/VPS Linux(Debian, Red Hat), gestione webserver(Apache, Nginx), sicurezza e Firewall, bash scripting, orchestrazione di container(Docker). 
 
-- **Versioning e altri tool:** Familiarità nell'uso di Git. Github Actions.
+- **Versioning e altri tool:** Familiarità nell'uso di Git, Github Actions.
 
 - **Cloud:** Conoscenza dei servizi AWS: S3, Cloudfront, EC2, Lambda.
 
